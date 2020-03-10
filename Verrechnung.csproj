@@ -46,14 +46,53 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="frmArtikel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmArtikel.Designer.cs">
+      <DependentUpon>frmArtikel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKunde.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKunde.Designer.cs">
+      <DependentUpon>frmKunde.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRechnung.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRechnung.Designer.cs">
+      <DependentUpon>frmRechnung.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmStart.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmStart.Designer.cs">
       <DependentUpon>frmStart.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmStatistik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStatistik.Designer.cs">
+      <DependentUpon>frmStatistik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUmsatzsteuer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUmsatzsteuer.Designer.cs">
+      <DependentUpon>frmUmsatzsteuer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmWarenkorb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWarenkorb.Designer.cs">
+      <DependentUpon>frmWarenkorb.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmArtikel.resx">
+      <DependentUpon>frmArtikel.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmStart.resx">
       <DependentUpon>frmStart.cs</DependentUpon>
     </EmbeddedResource>

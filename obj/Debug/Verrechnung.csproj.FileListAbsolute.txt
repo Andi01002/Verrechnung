@@ -7,3 +7,4 @@ D:\Schule\Schuljahr 2019_20\SWPP - Softwareprogrammierung\Verrechnung\Verrechnun
 D:\Schule\Schuljahr 2019_20\SWPP - Softwareprogrammierung\Verrechnung\Verrechnung\obj\Debug\Verrechnung.csproj.GenerateResource.cache
 D:\Schule\Schuljahr 2019_20\SWPP - Softwareprogrammierung\Verrechnung\Verrechnung\obj\Debug\Verrechnung.exe
 D:\Schule\Schuljahr 2019_20\SWPP - Softwareprogrammierung\Verrechnung\Verrechnung\obj\Debug\Verrechnung.pdb
+D:\Schule\Schuljahr 2019_20\SWPP - Softwareprogrammierung\Verrechnung\Verrechnung\obj\Debug\Verrechnung.frmArtikel.resources
